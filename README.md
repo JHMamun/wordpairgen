@@ -6,13 +6,13 @@ source tutorial: [YouTube](https://www.youtube.com/watch?v=1gDhl4leEzA)
 # Here are some screenshots of the final output
 
 1. The first Page Generates Wordpairs
-   <img src="ScreenShots\Screenshot_1633257723.png">
+   <img src="ScreenShots\Screenshot_1633257723.png" width ="200">
 2. Word pairs can be made favorite by taping anywhere in a row. The love icons will become red. Undo can be done.
-   <img src="ScreenShots\Screenshot_1633257741.png">
+   <img src="ScreenShots\Screenshot_1633257741.png" width ="200">
 3. The hamburger button is pushed to show the new page on the stack which is the list of favorite words.
-   <img src="ScreenShots\Screenshot_1633257755.png">
+   <img src="ScreenShots\Screenshot_1633257755.png" width ="200">
 4. The list of unique Favorite words.
-   <img src="ScreenShots\Screenshot_1633257759.png">
+   <img src="ScreenShots\Screenshot_1633257759.png" width ="200">
 
 #### Extra Dependency Used:
 
